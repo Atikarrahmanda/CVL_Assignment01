@@ -2,7 +2,8 @@
 
 Dataset yang digunakan pada tugas ini ini berasal dari [Chest X-Ray Images (Pneumonia)](https://www.kaggle.com/datasets/paultimothymooney/chest-xray-pneumonia) yang tersedia di Kaggle.  
 Namun, dalam penelitian ini hanya digunakan 5 Gambar
-<img width="2583" height="647" alt="image" src="https://github.com/user-attachments/assets/76c52472-76e2-49ff-9c4b-7e9655ae5456" />
+<img width="2538" height="625" alt="image" src="https://github.com/user-attachments/assets/19936bda-2a1b-4eac-b8a7-c11693c8db81" />
+
 
 ## Image Enhancement
 ## a. Grayscale
